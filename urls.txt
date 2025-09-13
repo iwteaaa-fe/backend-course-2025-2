@@ -1,1 +1,2 @@
 course://web.backend/?name="ÐÐ¾Ð²Ð°Ð»Ñ ÐÐ°Ð´Ð¸Ð¼"&group="Ð¤ÐÐ-21Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"#iwteaaa-fe
+https://bank.gov.ua/NBUStatService/v1/statdirectory/inflation?date=202302&period=m&json
